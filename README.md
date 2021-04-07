@@ -1,4 +1,4 @@
-![gh-pages](https://github.com/AntiHero/AlgoJS/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/AntiHero/AlgoJS/actions/workflows/tests.yml/badge.svg)
 
 1. Find first unique character.  
 
