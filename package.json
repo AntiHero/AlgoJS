@@ -1,0 +1,33 @@
+{
+  "name": "algo-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint --cache .",
+    "lint:fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntiHero/AlgoJS.git"
+  },
+  "keywords": [],
+  "author": "Aleksandr Schemelev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntiHero/AlgoJS/issues"
+  },
+  "homepage": "https://github.com/AntiHero/AlgoJS#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "@babel/preset-env": "^7.13.12",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.3.4",
+    "jest": "^26.6.3"
+  }
+}
